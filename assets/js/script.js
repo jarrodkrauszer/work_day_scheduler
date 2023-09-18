@@ -51,7 +51,6 @@ $(document).ready(function () {
     return localStorage.getItem(key) || '';
   }
 
-  getItemFromStorage('hour-15');
   // TODO: Add code to display the current date in the header of the page.
   $('#currentDay').text(dayjs().format('dddd, MMMM D'));
 });

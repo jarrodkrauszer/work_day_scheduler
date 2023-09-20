@@ -18,4 +18,6 @@ Link to deployed code:  https://jarrodkrauszer.github.io/work_day_scheduler/
 
 The following image shows the web application's appearance and functionality:
 
-![The Work Day Schduler website includes a header followed by a section for all the time blocks in a work day](./images/screenshot1.png)
+![The Work Day Schduler website includes a header followed by a section for all the time blocks in a work day](./assets/images/screenshot1.png)
+
+![The Work Day Schduler website includes a header followed by a section for all the time blocks in a work day](./assets/images/screenshot2.png)
